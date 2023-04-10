@@ -2,4 +2,17 @@
 
 	Hanzo, nosso personagem principal é um ninja renegado que foi exilado de sua vila devido a um crime que ele não cometeu e agora precisa lutar para recuperar sua honra e provar sua inocência. 
 
+	Cena principal mostra ninjas em treinamento fazendo coisas de ninja padrao. De repente mostra o Ninja Boss com sua barba cortada por um shuriken. Acham que foi ele quem jogou e ele é imediatamente literalmente arremessado para fora da vila.
 	
+	Em estilo metroidvania, ele passa por fases (tipo crash bandicoot 1) onde tem varias mini quests, como resgatar pessoas nessas vilas vizinhas, levar objetos, cozinhar para uma senhorinha, trabalhar para alguem, fazer carinho em gatinhos etc..
+	Cada quest ele ganha pontos de reputação e dinheiros para comprar itens como armas e roupas. Começa com reputação negativa e vai aumentando conforme quests sendo feitas.
+	Also em cada fase ele encontra scrolls escondidos de artes marciais onde aprende novas tecnicas ninja que aprimoram seu combate.
+	
+	Durante o gameplay, historias de sua origem e pq ele foi exilado vao sendo reveladas. A historia do crime e quem que realmente cometeu.
+	(um ninja que é igualzinho ele porem com uma cor diferente)
+
+	O mini boss sera o vilão da vila. Voce o intimida falando o que realmente aconteceu e o ameaça para contar a vdd pros ninjas, mas ele fala que ta suave e nao vai nao. Ai rola a luta.
+
+	Quando achar que seus pontos de reputação é suficiente, ja pode voltar la no Big Boss da sua vila e lutar com ele para provar que vc é top e contar a historia verdadeira. Caso não tenha o poder suficiente, ele nao acredita em vc e voce volta la pras quests. Caso consiga ganhar a luta, voce tem sua reputação de volta e pode escolher em fazer vingança( cortar agora o cabelo do ninja boss, ele ficar puto e te exilar de novo) ou viver em #paz(ending 1).
+
+	Voce pode voltar e matar a 2 forma do Ninja Boss ( careca e sem barba e bem mais forte). Matando ele vc vira o novo Ninja Boss (ending2)
